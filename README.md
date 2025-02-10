@@ -24,6 +24,9 @@ The High Low Game is a simple betting game where the player bets credits on whet
     ```sh
     pip install easygui_qt
     ```
+    ```sh
+    pip install easygui_qt
+    ```
 3. Run the game:
     ```sh
     python main.py
